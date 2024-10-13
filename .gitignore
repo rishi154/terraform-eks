@@ -35,3 +35,5 @@ bin/
 terraform.tfstate
 terraform.tfstate.backup
 terraform-eks.iml
+.terraform.tfstate.lock.info
+terraform.tfvars
